@@ -24,7 +24,7 @@ Nos repositórios públicos que estão no perfil hoje, isso aparece em dois cen�
 
 Esse recorte representa bem o tipo de trabalho com o qual mais me identifico: produtos web que conectam interface, processo e necessidade real de negócio.
 
-## <h2>Tecnologias e Ferramentas</h2>
+## Tecnologias e Ferramentas
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="36" height="36" alt="PHP" />
@@ -56,12 +56,12 @@ Esse recorte representa bem o tipo de trabalho com o qual mais me identifico: pr
 
 <p align="left">
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=gr7502&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=guilherme-rodriguesdev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
     height="165"
   />
   &nbsp;&nbsp;&nbsp;
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gr7502&layout=compact&theme=tokyonight&locale=pt-br"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=guilherme-rodriguesdev&layout=compact&theme=tokyonight&locale=pt-br"
     height="165"
   />
 </p>
