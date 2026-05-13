@@ -1,5 +1,3 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
 # Guilherme Rodrigues
 
 <p align="left">
@@ -26,7 +24,7 @@ Nos repositórios públicos que estão no perfil hoje, isso aparece em dois cen�
 
 Esse recorte representa bem o tipo de trabalho com o qual mais me identifico: produtos web que conectam interface, processo e necessidade real de negócio.
 
-## Tecnologias e Ferramentas
+<h2>Tecnologias e Ferramentas</h2>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="34" alt="PHP" />
