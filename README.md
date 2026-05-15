@@ -69,8 +69,8 @@ Esse recorte representa bem o tipo de trabalho com o qual mais me identifico: pr
 ## Contato
 
 <p align="left">
-  <a href="https://github.com/gr7502">
-    <img src="https://img.shields.io/badge/GitHub-gr7502-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub gr7502" />
+  <a href="https://github.com/guilherme-rodriguesdev">
+    <img src="https://img.shields.io/badge/GitHub-guilherme-rodriguesdev-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub gr7502" />
   </a>
 </p>
 
