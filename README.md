@@ -70,7 +70,7 @@ Esse recorte representa bem o tipo de trabalho com o qual mais me identifico: pr
 
 <p align="left">
   <a href="https://github.com/guilherme-rodriguesdev">
-    <img src="https://img.shields.io/badge/GitHub-guilherme-rodriguesdev-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub gr7502" />
+    <img src="https://img.shields.io/badge/GitHub-guilherme-rodriguesdev111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub gr7502" />
   </a>
 </p>
 
