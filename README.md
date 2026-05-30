@@ -1,9 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1D4ED8,100:7C3AED&height=220&section=header&text=Guilherme%20Rodrigues&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Web%20%7C%20PHP%20%7C%20Laravel%20%7C%20CodeIgniter%20%7C%20React&descAlignY=58&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1D4ED8,100:2563EB&height=220&section=header&text=Guilherme%20Rodrigues&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Web%20%7C%20PHP%20%7C%20Laravel%20%7C%20CodeIgniter%20%7C%20React&descAlignY=58&descSize=17"/>
 
 <h2 align="center">Olá, eu sou Guilherme Rodrigues 👋</h2>
 
 <p align="center">
-  <strong>Desenvolvedor web focado em sistemas reais, interfaces úteis e evolução contínua de produto.</strong>
+  <strong>Desenvolvedor Full stack focado em sistemas reais, interfaces úteis e evolução contínua de produto.</strong>
 </p>
 
 <p align="center">
@@ -14,10 +14,10 @@
   <a href="https://github.com/guilherme-rodriguesdev">
     <img src="https://img.shields.io/badge/GitHub-guilherme--rodriguesdev-111827?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:guilherme.gees1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contato-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:guilhermeaguiarrodrigues22@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contato-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI">
+  <a href="https://www.linkedin.com/in/guilherme-rodrigues-7b7840205/">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
@@ -26,7 +26,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Atuo com desenvolvimento web olhando além da tela: fluxo, regra de negócio, experiência de uso e manutenção do sistema no dia a dia.
+Atuo com desenvolvimento full stack olhando além da tela: fluxo, regra de negócio, experiência de uso e manutenção do sistema no dia a dia.
 
 Tenho experiência com sistemas voltados para operação, atendimento, painéis, rotinas administrativas, endpoints JSON, melhorias de interface e evolução de módulos já existentes.
 
@@ -37,13 +37,13 @@ Meu foco é criar soluções que sejam funcionais, organizadas e úteis para que
 ## 🚀 Tecnologias
 
 <p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-2563EB?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-1D4ED8?style=for-the-badge&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -134,7 +134,7 @@ Meu foco é criar soluções que sejam funcionais, organizadas e úteis para que
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=guilherme-rodriguesdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=pt-br&bg_color=0D1117&title_color=60A5FA&icon_color=7C3AED&text_color=FFFFFF"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=guilherme-rodriguesdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=pt-br&bg_color=0D1117&title_color=60A5FA&icon_color=2563EB&text_color=FFFFFF"/>
 
 <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=guilherme-rodriguesdev&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br&bg_color=0D1117&title_color=60A5FA&text_color=FFFFFF"/>
 
@@ -146,7 +146,7 @@ Meu foco é criar soluções que sejam funcionais, organizadas e úteis para que
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=guilherme-rodriguesdev&bg_color=0D1117&color=FFFFFF&line=7C3AED&point=60A5FA&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=guilherme-rodriguesdev&bg_color=0D1117&color=FFFFFF&line=2563EB&point=60A5FA&area=true&hide_border=true"/>
 
 </div>
 
@@ -155,13 +155,13 @@ Meu foco é criar soluções que sejam funcionais, organizadas e úteis para que
 ## 📫 Contato
 
 <p align="center">
-  <a href="mailto:guilherme.gees1@gmail.com">
-    <img src="https://img.shields.io/badge/Me%20envie%20um%20email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:guilhermeaguiarrodrigues22@gmail.com">
+    <img src="https://img.shields.io/badge/Me%20envie%20um%20email-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/guilherme-rodriguesdev">
     <img src="https://img.shields.io/badge/Ver%20GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI">
+  <a href="https://www.linkedin.com/in/guilherme-rodrigues-7b7840205/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
@@ -172,4 +172,4 @@ Meu foco é criar soluções que sejam funcionais, organizadas e úteis para que
   <i>"Código é sobre resolver problemas. Design é sobre pessoas. Juntos, criamos experiências."</i>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:1D4ED8,100:0D1117&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1D4ED8,100:0D1117&height=120&section=footer"/>
