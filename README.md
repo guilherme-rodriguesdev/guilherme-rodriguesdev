@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1D4ED8,100:2563EB&height=220&section=header&text=Guilherme%20Rodrigues&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Web%20%7C%20PHP%20%7C%20Laravel%20%7C%20CodeIgniter%20%7C%20React&descAlignY=58&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1D4ED8,100:2563EB&height=220&section=header&text=Guilherme%20Rodrigues&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full-stack%20%7C%20PHP%20%7C%20Laravel%20%7C%20CodeIgniter%20%7C%20React&descAlignY=58&descSize=17"/>
 
 <h2 align="center">Olá, eu sou Guilherme Rodrigues 👋</h2>
 
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Construo aplicações web que conectam regra de negócio, experiência de uso e operação do dia a dia.
+  Construo aplicações que conectam regra de negócio, experiência de uso e operação do dia a dia.
 </p>
 
 <p align="center">
