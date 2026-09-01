@@ -130,25 +130,19 @@ Meu foco é criar soluções que sejam funcionais, organizadas e úteis para que
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=guilherme-rodriguesdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=pt-br&bg_color=0D1117&title_color=60A5FA&icon_color=2563EB&text_color=FFFFFF"/>
-
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=guilherme-rodriguesdev&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br&bg_color=0D1117&title_color=60A5FA&text_color=FFFFFF"/>
-
-</div>
-
----
-
-## 📈 Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=guilherme-rodriguesdev&bg_color=0D1117&color=FFFFFF&line=2563EB&point=60A5FA&area=true&hide_border=true"/>
-
-</div>
+<p align="center">
+  <a href="https://github.com/guilherme-rodriguesdev">
+    <img src="https://img.shields.io/badge/GitHub-@guilherme--rodriguesdev-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://github.com/guilherme-rodriguesdev?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositórios-Explorar-2563EB?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://github.com/guilherme-rodriguesdev">
+    <img src="https://img.shields.io/badge/Perfil-Disponível-0D1117?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
 ---
 
